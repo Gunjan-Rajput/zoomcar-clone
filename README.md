@@ -11,4 +11,3 @@ Basic styling using CSS
 Minimal JavaScript functionality (click event on the "Get Started" button)
 ## Usage
 To view the project, simply open the index.html file in a web browser. You can interact with the navigation links and the "Get Started" button in the hero section.
-
